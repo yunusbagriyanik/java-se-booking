@@ -1,5 +1,4 @@
 # Booking Program
-java practice for beginner
 
 Presentation-Ready Date: December 8, 2018
 
