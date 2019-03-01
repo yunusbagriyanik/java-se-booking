@@ -1,6 +1,6 @@
 # Booking Program
 
-Presentation-Ready Date: December 8, 2018
+
 
 This project works in Netbeans Program's console. It's an imaginary reservation program. When the program starts firstly admin enters login informations. After login six options appear on the console screen. 
 
